@@ -7,7 +7,7 @@ Turbofans are a type of jet engine widely used in aviation. They combine the ben
 
 ## 2. NASA Turbofan Degradation Dataset
 The **NASA CMAPSS Dataset** (Commercial Modular Aero-Propulsion System Simulation) is a benchmark dataset used for predictive maintenance of turbofan engines. 
-
+![image](https://github.com/user-attachments/assets/70ccd721-5786-4ff5-98c2-800403348f55)
 ### Dataset Overview:
 - **Features:**
   - 3 operational settings: `setting_1`, `setting_2`, `setting_3`.
